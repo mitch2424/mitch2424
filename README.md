@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 I am a backend dev-student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from KG.
 - :telescope: I’m studying backend for building web applications.
