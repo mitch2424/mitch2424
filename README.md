@@ -71,7 +71,7 @@ I am a backend dev-student <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mitch2424&theme=dark&background=000000)](https://git.io/streak-stats)-->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mitch2424&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitch2424&layout=compact&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitch2424&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
