@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-I am a backend dev-student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from KG.
+I am a backend dev-student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from KZ.
 - :telescope: I’m studying backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
